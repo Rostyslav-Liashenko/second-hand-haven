@@ -1,0 +1,8 @@
+
+export enum AttributeType {
+    NUMBER_INPUT = 'NUMBER_INPUT',
+    SINGLE_SELECTOR = 'SINGLE_SELECTOR',
+    MULTI_SELECTOR = 'MULTI_SELECTOR',
+    INPUT = 'INPUT',
+    CHECKBOX = 'CHECKBOX',
+}
